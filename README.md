@@ -1,5 +1,5 @@
 <html>
- < embed src="https://youtu.be/TaIDq7lV9KI" type="application/x-shockwave-flash" wmode="window" bgcolor="#090909" width="400" height="300" allowScriptAccess="always" allowfullscreen="true" ></embed >
+
 </br>
 <div align="center"><a href="https://gitlab.com/cybertkkicker/cybertkautoinstall/"><img src="https://images.cooltext.com/5410135.gif" width="467" height="67" alt="CyberTKBOTKONTROL" /></a><div>
 <div align=<br><b>╚══╝║♫ ♪ ♫ ♪▄ █ ▄ █ ▄ ▄ █ ▄ █ ▄ █ Min- - - - - - - - - - - -●Max</b></br><div>
@@ -19,6 +19,7 @@
 <br><b>✦  cybertk0  </b></br>
 <br><b>✦ ⇩Add⇩Line⇩ </b></br>
 <p><a href="https://line.me/R/ti/p/~cybertk0" rel="nofollow"><img height="36" border="0" alt="Add Friend" src="https://camo.githubusercontent.com/035d0206e65dfbdfb7cdabbd6f5a1f4fb59f0e41/68747470733a2f2f7363646e2e6c696e652d617070732e636f6d2f6e2f6c696e655f6164645f667269656e64732f62746e2f656e2e706e67" data-canonical-src="https://scdn.line-apps.com/n/line_add_friends/btn/en.png" style="max-width:100%;"></a></p>
+ <embed src="https://youtu.be/TaIDq7lV9KI" type="application/x-shockwave-flash" wmode="window" bgcolor="#090909" width="400" height="300" allowScriptAccess="always" allowfullscreen="true" ></embed>
 </br><b>✦    CyberTKBOT </b>
 </br><b>✦    Cybertk Bot scripti'dir. </b>
 </br><b>✦ Baska herhangi bir amacla kullanilmak icin duzenlenmesinden ve, </b>
