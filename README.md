@@ -32,6 +32,7 @@
 </br><a href="mailto:tolgajames2@gmail.com"> <img src="https://img.icons8.com/plasticine/100/000000/add-open-envelope.png"></a></b>
  
  <br/><b>✦Thx To; Linepy ➥<a href="https://github.com/LRTT" title="@LRTT"> @LRTT </a></b>
+ <br/><b>✦Thx To; Original Linepy ➥<a href="https://github.com/crash-override404" title="@LRTT"> @crash-override404 </a></b>
 </br>
 </body></a>
  </html>
