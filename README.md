@@ -6,7 +6,6 @@
 <div align="center"> <a href="https://instagram.com/_aquariusman"> <img src="https://images.cooltext.com/5135666.gif" width="576" height="104" alt="Cyber TK"> </a><div>
 <br><b>✦    Continue To Follow Cyber-TK </b>
 <br><b>✦   OTOMATİK OLARAK ÇALIŞTIRMAK İÇİN AŞAĞIDAKİ ADIMI İZLEYİNİZ </b></br>
-
 <br><b>✦   Bot İs Running </b></br>
 <br><b>✦   git clone https://github.com/CyberTKR/CyberTKRNewKicker</b></br>
 <br><b>✦   ls</b></br>
