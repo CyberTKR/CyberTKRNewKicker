@@ -23,10 +23,6 @@
 </br><b>✦    Cybertk Bot scripti'dir. </b>
 </br><b>✦ Baska herhangi bir amacla kullanilmak icin duzenlenmesinden ve, </b>
 </br><b>✦   kullanilmasindan cybertk sorumlu degildir. </b>
-
-<br/><b>✦Linepy ➥<a href="https://github.com/LRTT" title="@LRTT"> @LRTT </a></b>
-</br>
-
 <br/><b>✦ İnstagram Account ➥<a href="http://instagram.com/_aquariusman " title="Tolga instagram Account"> _aquariusman </a> </b>
 <br/><b>✦Youtube Channel ➥<a href="https://youtube.com/channel/UC9AyYKWovERexyOFy3h4rdw" title="CyberTK Youtube Channel"> CyberTK Official Channel </a></b>
 </br>
@@ -34,5 +30,8 @@
 <br/><b>✦<a href="mailto:tolgajames2@gmail.com">To send a mail, just click,<b> </a>
 </br><p><b>✦<a href="mailto:tolgajames2@gmail.com">On the Mail Icon below.↴⇩<b> </a></p>
 </br><a href="mailto:tolgajames2@gmail.com"> <img src="https://img.icons8.com/plasticine/100/000000/add-open-envelope.png"/>
+ 
+ <br/><b>✦Thx To; Linepy ➥<a href="https://github.com/LRTT" title="@LRTT"> @LRTT </a></b>
+</br>
 </body></a>
  </html>
