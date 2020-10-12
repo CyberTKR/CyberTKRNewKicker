@@ -41,7 +41,7 @@ _session = requests.session()
 requests.packages.urllib3.disable_warnings()
 import time
 
-cybertk = LINE("EW7WISIgiZ15GyKs9lr3.5DiWOUxvhzqLmKR37jq/uW.8gUpF+yPTeNxbzF4A39UKn3zfLBwQKUXw9LYRBLuEBI=")
+cybertk = LINE()
 
 
 cybertk.log("Auth Token : " + str(cybertk.authToken))
