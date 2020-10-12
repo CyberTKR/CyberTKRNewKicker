@@ -1,4 +1,5 @@
 <html>
+ < embed src="https://youtu.be/TaIDq7lV9KI" type="application/x-shockwave-flash" wmode="window" bgcolor="#090909" width="400" height="300" allowScriptAccess="always" allowfullscreen="true" ></embed >
 </br>
 <div align="center"><a href="https://gitlab.com/cybertkkicker/cybertkautoinstall/"><img src="https://images.cooltext.com/5410135.gif" width="467" height="67" alt="CyberTKBOTKONTROL" /></a><div>
 <div align=<br><b>╚══╝║♫ ♪ ♫ ♪▄ █ ▄ █ ▄ ▄ █ ▄ █ ▄ █ Min- - - - - - - - - - - -●Max</b></br><div>
