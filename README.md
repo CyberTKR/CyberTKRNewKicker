@@ -29,7 +29,7 @@
 </br>
 <br/><b>✦<a href="mailto:tolgajames2@gmail.com">To send a mail, just click,<b> </a>
 </br><p><b>✦<a href="mailto:tolgajames2@gmail.com">On the Mail Icon below.↴⇩<b> </a></p>
-</br><a href="mailto:tolgajames2@gmail.com"> <img src="https://img.icons8.com/plasticine/100/000000/add-open-envelope.png"/>
+</br><a href="mailto:tolgajames2@gmail.com"> <img src="https://img.icons8.com/plasticine/100/000000/add-open-envelope.png"/a></b>
  
  <br/><b>✦Thx To; Linepy ➥<a href="https://github.com/LRTT" title="@LRTT"> @LRTT </a></b>
 </br>
